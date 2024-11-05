@@ -39,7 +39,9 @@
 
 2. 다수의 PG 서비스 하나의 PG APIS 공통화-> (RequestDto / ResponseDto)
     - PG사 마다 요청 메시지와 응답 메시지의 형식은 다르다.   
-
+### 과제 내용
+요구사항을 만족하는 설계 도면을 그려 주세요.
+- ![클래스 다이어그램](IMG_2435.jpeg)
 
 #### 출처
 [기획자가 알아야할 결제시스템 구조](https://yozm.wishket.com/magazine/detail/2585/)
